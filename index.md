@@ -27,3 +27,5 @@ Cegep Ahuntsic: Health sciences : 2000
 Computer skills: 
 Python, Linux, Numpy, Pandas, Scikitt learn, Pytorch
 Machine Learning and Deep Learning
+
+Languages: French, English, Arabic, and Spanish
