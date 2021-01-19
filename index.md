@@ -21,3 +21,9 @@ Diploma/Graduation:
 - Pharmacological Master, pharmacoeconomy and pharmacoepidemiology: University of Montreal. 2015
 - Toxicology/Toxicomany Certificate: 2018: University of Sherbrooke
     
+Cegep Ahuntsic: Health sciences : 2000
+
+
+Computer skills: 
+Python, Linux, Numpy, Pandas, Scikitt learn, Pytorch
+Machine Learning and Deep Learning
