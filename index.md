@@ -30,4 +30,4 @@ Machine Learning and Deep Learning
 
 Languages: French, English, Arabic, and Spanish
 
-Others diverses interests: Public Health, Ecology, History. Human Rights, Politics, Cultures and Travels 
+Other diverses and personnal interests: Ecology, History. Human Rights, Philosophy, Politics, Sports, Psychology 
