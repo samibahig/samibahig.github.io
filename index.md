@@ -1,37 +1,27 @@
-## Welcome to Professional Profile: 
+## Welcome to my Professional Profile: 
 
 You can use the [editor on GitHub](https://github.com/samibahig/samibahig.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Currently:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DESS in Artificial Intelligence/ University of Montreal: 
+    IFT6390 completed in Fall 2020  : B
+    IFT6135 completed in Winter 2020 : B-
 
-```markdown
-Syntax highlighted code block
+PhD in Virtual Reality in progress (at part time, already did one year, 2 more years to do at part time)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samibahig/samibahig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Work Experience: 
+- Researcher Assistant 2019: Alexandre Dumais Laboratory: Fernand Seguin. Montreal
+- Physician in a Oncological pirvate Center. ALgiers. ALgeria   
+- Physician in Emergency Service. Algiers. Algeria
+- Resident in internal Medecine Service: 2006-2008: Hotel Dieu Hospital. Montreal.
+- Resident in Family medecine 2008-2011: Cite de la Sante. Montreal
+   
+Diploma/Graduation: 
+- Medecine Doctor : 2006: University of Montreal
+- Pharmacological Master, pharmacoeconomy and pharmacoepidemiology: University of Montreal. 2015
+- Toxicology/Toxicomany Certificate: 2018: University of Sherbrooke
+    
