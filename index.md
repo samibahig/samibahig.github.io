@@ -29,3 +29,5 @@ Python, Linux, Numpy, Pandas, Scikitt learn, Pytorch
 Machine Learning and Deep Learning
 
 Languages: French, English, Arabic, and Spanish
+
+Others diverses interests: Public Health, Ecology, History. Human Rights, Politics, Cultures and Travels 
