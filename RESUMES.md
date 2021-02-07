@@ -35,7 +35,7 @@ Languages: French, English, Arabic, and Spanish
 
 Other diverses and personnal interests: 
 Ecology and Human Rights Activist 
-Activist for Peace and Harmony between peoples and nations,
-History, Philosophy(Grec philosophy, French Philosophy, and Arabic Philosophy) internationnal Politics, Sports, Travels, Psychology
+Activist for Peace and Harmony between peoples and nations
+Humanities: History, Philosophy(Grec philosophy, French Philosophy, and Arabic Philosophy) internationnal Politics, Sports, Travels, Psychology
 My favorite countries are Malaysia, Indonesia, Egypt, Algeria, Canada, Africa in general, and India but I would be glad and honnoured 
-to collaborate with people for all over the world for internationnal humanitarian projects that may benefit all.
+to collaborate with people for all over the world for internationnal humanitarian projects and Health projects that may benefit all.
