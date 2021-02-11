@@ -36,7 +36,7 @@ Languages: French, English, Arabic, and Spanish
 Other diverses and personnal interests: 
 Ecology and Human Rights Activist 
 Internationnal politic and Activist for Peace and Harmony between peoples and nations,
-Humanities: History, Philosophy(French Philosophy, Grec Philosophy, Arabic Philosophy, ex: Hassan el Basri, Emir Abd el Kader, Ferhatt Abbas, Averroes, Rousseau, Victor Hugo, Socrates, Jubas)
+Humanities: History, Philosophy(French Philosophy, Grec Philosophy, Arabic Philosophy, ex: Hassan el Basri, Emir Abd el Kader, Averroes, Rousseau, Victor Hugo, Socrates...)
 Sports, Travels, Human Psychology + Animal Psychology. 
 My favorite countries are Malaysia, Indonesia, Egypt, Algeria, Canada, Africa in general, Sweden, England and India but I would be glad and honnoured 
 to collaborate with people for all over the world for internationnal humanitarian projects and/or Health projects that may benefit all. 
