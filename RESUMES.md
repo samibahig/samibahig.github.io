@@ -34,9 +34,8 @@ Linux, Github, HPC
 Languages: French, English, Arabic, and Spanish
 
 Other diverses and personnal interests: 
-Ecology and Human Rights Activist 
-Internationnal politic and Activist for Peace and Harmony between peoples and nations,
-Humanities: History, Philosophy(French Philosophy, Grec Philosophy, Arabic Philosophy, ex: Averoes, Al Basri, Al Ghazali, Abdel Kader, Rousseau, Victor Hugo, Socrates)
+Ecology, Human Rights, Internationnal politic, Peace and Harmony between peoples and nations.
+Humanities: History, Philosophy(French Philosophy, Grec Philosophy, Arabic Philosophy)
 Sports, Travels, Human Psychology + Animal Psychology. 
 My favorite countries are Malaysia, Indonesia, Egypt, Algeria, Canada, Africa in general, but I would be glad and honnoured 
 to collaborate with people for all over the world for internationnal humanitarian projects and/or Health projects that may benefit all. 
