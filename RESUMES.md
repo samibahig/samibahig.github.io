@@ -30,11 +30,12 @@ Computer skills:
 Python, Numpy, Pandas, 
 Machine Learning and Deep Learning
 Linux, Github, HPC
+- Microsoft Office
 
 Languages: French, English, Arabic, and Spanish
 
 Other diverses and personnal interests: 
 Ecology, Human Rights, Peace and Harmony between peoples and nations.
 Philosophy(French Philosophy, Grec Philosophy, Arabic Philosophy)
-Human Psychology 
++ Human Psychology 
 I would be glad and honnoured to collaborate with people for all over the world for internationnal humanitarian projects and/or Health projects that may benefit all. 
